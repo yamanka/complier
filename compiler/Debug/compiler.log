@@ -1,0 +1,26 @@
+﻿生成启动时间为 2014/11/15 16:31:37。
+     1>项目“C:\Users\yamanka\Source\Repos\complier\compiler\compiler\compiler.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\compiler.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt compiler.cpp
+         compiler.cpp
+     1>c:\users\yamanka\source\repos\complier\compiler\compiler\compiler.cpp(98): warning C4551: 缺少参数列表的函数调用
+     1>c:\users\yamanka\source\repos\complier\compiler\compiler\compiler.cpp(125): warning C4551: 缺少参数列表的函数调用
+     1>c:\users\yamanka\source\repos\complier\compiler\compiler\compiler.cpp(131): warning C4551: 缺少参数列表的函数调用
+     1>c:\users\yamanka\source\repos\complier\compiler\compiler\compiler.cpp(135): warning C4551: 缺少参数列表的函数调用
+     1>c:\users\yamanka\source\repos\complier\compiler\compiler\compiler.cpp(141): warning C4551: 缺少参数列表的函数调用
+     1>c:\users\yamanka\source\repos\complier\compiler\compiler\compiler.cpp(145): warning C4551: 缺少参数列表的函数调用
+     1>c:\users\yamanka\source\repos\complier\compiler\compiler\compiler.cpp(151): warning C4551: 缺少参数列表的函数调用
+     1>c:\users\yamanka\source\repos\complier\compiler\compiler\compiler.cpp(155): warning C4551: 缺少参数列表的函数调用
+     1>c:\users\yamanka\source\repos\complier\compiler\compiler\compiler.cpp(162): warning C4551: 缺少参数列表的函数调用
+     1>c:\users\yamanka\source\repos\complier\compiler\compiler\compiler.cpp(166): warning C4551: 缺少参数列表的函数调用
+     1>c:\users\yamanka\source\repos\complier\compiler\compiler\compiler.cpp(173): warning C4551: 缺少参数列表的函数调用
+     1>c:\users\yamanka\source\repos\complier\compiler\compiler\compiler.cpp(85): warning C4101: “j”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yamanka\Source\Repos\complier\compiler\Debug\compiler.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yamanka\Source\Repos\complier\compiler\Debug\compiler.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yamanka\Source\Repos\complier\compiler\Debug\compiler.lib" /MACHINE:X86 Debug\compiler.obj
+         Debug\stdafx.obj
+         compiler.vcxproj -> C:\Users\yamanka\Source\Repos\complier\compiler\Debug\compiler.exe
+     1>已完成生成项目“C:\Users\yamanka\Source\Repos\complier\compiler\compiler\compiler.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.09
