@@ -19,17 +19,19 @@
 #define becomes 18	//=
 #define lbrace	19	//{
 #define rbrace	20	//}
-#define ifsym	21	
-#define thensym	22
-#define elsesym	23
-#define whilesym	24
-#define constsym	25
-#define scanfsym	26
-#define printfsym	27
-#define returnsym	28
-#define intsym	29
-#define charsym	30
-#define switchsym	31
-#define casesym	32
-#define	voidsym	33
-#define mainsym 34
+#define	lbracket	21	//[
+#define	rbracket	22	//]
+#define ifsym	23	
+#define thensym	24
+#define elsesym	25
+#define whilesym	26
+#define constsym	27
+#define scanfsym	28
+#define printfsym	29
+#define returnsym	30
+#define intsym	31
+#define charsym	32
+#define switchsym	33
+#define casesym	34
+#define	voidsym	35
+#define mainsym 36
