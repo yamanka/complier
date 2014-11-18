@@ -35,3 +35,7 @@
 #define casesym	34
 #define	voidsym	35
 #define mainsym 36
+#define charc   37
+#define stringc 38
+#define qmark   39
+#define dqmark	40
