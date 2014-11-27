@@ -1,0 +1,42 @@
+const int max=100; 
+CONSTTK const
+INTTK int
+IDEN max
+ASSIGN =
+INTCON 100
+SEMICN ;
+const char c='a';
+CONSTTK const
+IDEN char
+IDEN c
+ASSIGN =
+CHARCON a
+SEMICN ;
+int n;
+INTTK int
+IDEN n
+SEMICN ;
+void main()
+VOIDTK void
+MAINTK main
+LPARENT (
+RPARENT )
+{
+LBRACE {
+n=10;
+IDEN n
+ASSIGN =
+INTCON 10
+SEMICN ;
+printf("hello 
+PRINTTK printf
+LPARENT (
+error 101 in line 79
+null 
+world");
+IDEN world
+error 101 in line 88
+null 
+SEMICN ;
+}
+RBRACE }
