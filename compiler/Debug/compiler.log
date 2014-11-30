@@ -1,19 +1,19 @@
-﻿生成启动时间为 27/11/2014 19:24:41。
-     1>项目“C:\Users\Yamanka\complier\compiler\compiler.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2014/11/28 20:11:30。
+     1>项目“C:\Users\yamanka\compiler\compiler\compiler.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\compiler.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt compiler.cpp
          compiler.cpp
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(109): warning C4101: “j”: 未引用的局部变量
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(314): warning C4101: “j”: 未引用的局部变量
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(446): warning C4551: 缺少参数列表的函数调用
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(454): warning C4101: “k”: 未引用的局部变量
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(689): warning C4101: “cx0”: 未引用的局部变量
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(112): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(320): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(564): warning C4551: 缺少参数列表的函数调用
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(572): warning C4101: “k”: 未引用的局部变量
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(838): warning C4101: “cx0”: 未引用的局部变量
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Yamanka\complier\Debug\compiler.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Yamanka\complier\Debug\compiler.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Yamanka\complier\Debug\compiler.lib" /MACHINE:X86 Debug\compiler.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yamanka\compiler\Debug\compiler.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yamanka\compiler\Debug\compiler.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yamanka\compiler\Debug\compiler.lib" /MACHINE:X86 Debug\compiler.obj
          Debug\stdafx.obj
-         compiler.vcxproj -> C:\Users\Yamanka\complier\Debug\compiler.exe
-     1>已完成生成项目“C:\Users\Yamanka\complier\compiler\compiler.vcxproj”(Build 个目标)的操作。
+         compiler.vcxproj -> C:\Users\yamanka\compiler\Debug\compiler.exe
+     1>已完成生成项目“C:\Users\yamanka\compiler\compiler\compiler.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:01.20
+已用时间 00:00:01.10

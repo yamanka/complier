@@ -1,42 +1,22 @@
-const int max=100; 
-CONSTTK const
-INTTK int
-IDEN max
-ASSIGN =
-INTCON 100
-SEMICN ;
-const char c='a';
-CONSTTK const
-IDEN char
-IDEN c
-ASSIGN =
-CHARCON a
-SEMICN ;
-int n;
-INTTK int
-IDEN n
-SEMICN ;
-void main()
-VOIDTK void
-MAINTK main
-LPARENT (
-RPARENT )
+const int c = 0;
+int a,d[10];
+int search(int a,int b)
 {
-LBRACE {
-n=10;
-IDEN n
-ASSIGN =
-INTCON 10
-SEMICN ;
-printf("hello 
-PRINTTK printf
-LPARENT (
-error 101 in line 79
-null 
-world");
-IDEN world
-error 101 in line 88
-null 
-SEMICN ;
+	d[5] = 2;
+	return (a+b);
 }
-RBRACE }
+void main()
+{
+	
+	int b;
+	a = b + 1;
+	search(a, d[1]);
+	while (a>0)
+	printf(a+d[5]);
+	scanf(a);
+	switch (a + 5)
+	{
+		case 1: a = a + 5;
+		case 2:{a = a - 5; }
+	}
+}
