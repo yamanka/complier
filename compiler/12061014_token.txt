@@ -1,22 +1,12 @@
-const int c = 0;
-int a,d[10];
-int search(int a,int b)
+const int max=100; 
+const char c='a';
+int n;
+void search(int a,int b)
 {
-	d[5] = 2;
-	return (a+b);
 }
 void main()
 {
-	
-	int b;
-	a = b + 1;
-	search(a, d[1]);
-	while (a>0)
-	printf(a+d[5]);
-	scanf(a);
-	switch (a + 5)
-	{
-		case 1: a = a + 5;
-		case 2:{a = a - 5; }
-	}
+n=10;
+search(c,n);
+printf("hello world");
 }
