@@ -1,19 +1,30 @@
-﻿生成启动时间为 1/12/2014 23:19:57。
-     1>项目“C:\Users\Yamanka\complier\compiler\compiler.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2014/12/5 20:42:52。
+     1>项目“C:\Users\yamanka\compiler\compiler\compiler.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\compiler.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt compiler.cpp
          compiler.cpp
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(113): warning C4101: “j”: 未引用的局部变量
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(321): warning C4101: “j”: 未引用的局部变量
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(573): warning C4101: “k”: 未引用的局部变量
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(779): warning C4101: “j”: 未引用的局部变量
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(839): warning C4101: “cx0”: 未引用的局部变量
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(117): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(327): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(580): warning C4101: “k”: 未引用的局部变量
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(791): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(852): warning C4101: “cx0”: 未引用的局部变量
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(985): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(1291): warning C4129: “m”: 不可识别的字符转义序列
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(1291): warning C4129: “i”: 不可识别的字符转义序列
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(1292): warning C4129: “m”: 不可识别的字符转义序列
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(1292): warning C4129: “i”: 不可识别的字符转义序列
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(1292): warning C4129: “w”: 不可识别的字符转义序列
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(1293): warning C4129: “m”: 不可识别的字符转义序列
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(1293): warning C4129: “i”: 不可识别的字符转义序列
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(1294): warning C4129: “m”: 不可识别的字符转义序列
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(1294): warning C4129: “l”: 不可识别的字符转义序列
+     1>c:\users\yamanka\compiler\compiler\compiler.cpp(975): warning C4715: “startcomp”: 不是所有的控件路径都返回值
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Yamanka\complier\Debug\compiler.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Yamanka\complier\Debug\compiler.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Yamanka\complier\Debug\compiler.lib" /MACHINE:X86 Debug\compiler.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yamanka\compiler\Debug\compiler.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yamanka\compiler\Debug\compiler.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yamanka\compiler\Debug\compiler.lib" /MACHINE:X86 Debug\compiler.obj
          Debug\stdafx.obj
-         compiler.vcxproj -> C:\Users\Yamanka\complier\Debug\compiler.exe
-     1>已完成生成项目“C:\Users\Yamanka\complier\compiler\compiler.vcxproj”(Build 个目标)的操作。
+         compiler.vcxproj -> C:\Users\yamanka\compiler\Debug\compiler.exe
+     1>已完成生成项目“C:\Users\yamanka\compiler\compiler\compiler.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:01.02
+已用时间 00:00:01.47
