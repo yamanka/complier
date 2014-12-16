@@ -1,13 +1,16 @@
-const int max=100; 
-const char c='a';
-int n[10];
-int search(int a,int b,int c)
+const int c = 0;
+int a,d[10];
+int search(int a)
 {
-	return (1);
+	int i;
+	if (a == 1) return (1);
+	i = a*search(a - 1);
+	return (i);
 }
-int main()
+void main()
 {
-	int i,j,k;
 	
-	printf(search(1,search(1,2,3),3));
+	int b;
+	b = search(10);
+
 }
