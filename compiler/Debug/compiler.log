@@ -1,26 +1,23 @@
-﻿生成启动时间为 25/12/2014 20:35:12。
+﻿生成启动时间为 10/1/2015 1:18:33。
      1>项目“C:\Users\Yamanka\complier\compiler\compiler.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\compiler.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt compiler.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt compiler.cpp
          compiler.cpp
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(136): warning C4101: “j”: 未引用的局部变量
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(346): warning C4101: “j”: 未引用的局部变量
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(625): warning C4101: “k”: 未引用的局部变量
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(860): warning C4101: “j”: 未引用的局部变量
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(921): warning C4101: “cx0”: 未引用的局部变量
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(1049): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(1059): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(1123): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(1141): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(1159): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(1443): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(1613): warning C4018: “<=”: 有符号/无符号不匹配
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(1616): warning C4018: “<=”: 有符号/无符号不匹配
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(1639): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(2007): warning C4101: “i”: 未引用的局部变量
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(2007): warning C4101: “pre”: 未引用的局部变量
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(2007): warning C4101: “j”: 未引用的局部变量
-     1>c:\users\yamanka\complier\compiler\compiler.cpp(1044): warning C4715: “startcomp”: 不是所有的控件路径都返回值
+     1>c:\users\yamanka\complier\compiler\compiler.cpp(137): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\yamanka\complier\compiler\compiler.cpp(347): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\yamanka\complier\compiler\compiler.cpp(690): warning C4101: “k”: 未引用的局部变量
+     1>c:\users\yamanka\complier\compiler\compiler.cpp(935): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\yamanka\complier\compiler\compiler.cpp(998): warning C4101: “cx0”: 未引用的局部变量
+     1>c:\users\yamanka\complier\compiler\compiler.cpp(1132): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\yamanka\complier\compiler\compiler.cpp(1142): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\yamanka\complier\compiler\compiler.cpp(1207): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\yamanka\complier\compiler\compiler.cpp(1225): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\yamanka\complier\compiler\compiler.cpp(1243): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\yamanka\complier\compiler\compiler.cpp(1542): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\yamanka\complier\compiler\compiler.cpp(1540): warning C4101: “be”: 未引用的局部变量
+     1>c:\users\yamanka\complier\compiler\compiler.cpp(1564): warning C4101: “k”: 未引用的局部变量
+     1>c:\users\yamanka\complier\compiler\compiler.cpp(1831): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\yamanka\complier\compiler\compiler.cpp(1127): warning C4715: “startcomp”: 不是所有的控件路径都返回值
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Yamanka\complier\Debug\compiler.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Yamanka\complier\Debug\compiler.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Yamanka\complier\Debug\compiler.lib" /MACHINE:X86 Debug\compiler.obj
          Debug\stdafx.obj
@@ -29,4 +26,4 @@
 
 生成成功。
 
-已用时间 00:00:03.00
+已用时间 00:00:02.72
